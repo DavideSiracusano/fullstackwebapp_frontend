@@ -1,14 +1,14 @@
-# Webapp
+# Frontend
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2, it`s the frontend part of the final project of s2i university
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
+## How it works
+![image](https://github.com/DavideSiracusano/fullstackwebapp_frontend/assets/152174921/d298fb63-fd2f-4c17-aaa5-1e7685c7f57d)
+this webapp is oriented to be a free place where you can write your ideas, find common perspectives with others, all while respecting common rules and ethics. 
+it`s important to register 
+![image](https://github.com/DavideSiracusano/fullstackwebapp_frontend/assets/152174921/bbe99997-87c9-48cc-b16c-e3c499228a40)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Firebase link:
+https://fullstack-7899a.web.app/register
 
 ## Build
 
